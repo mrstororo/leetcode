@@ -1,4 +1,4 @@
 # leetcode
 
 
-- [双指针](Leetcode双指针.md)
+- [双指针](双指针.md)
